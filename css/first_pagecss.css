@@ -1,0 +1,104 @@
+.back1{
+    border-radius: 10px;
+    position: relative;
+    left: 25px;
+    top: 40px;
+}
+.login
+{
+   
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    width:26em;
+    height:32em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: rgba(80,215,147,0.5);
+    border-radius: 20px;
+    
+}
+
+
+.login_heading
+{
+    position: relative;
+    border-radius: 20px;
+    background-color: rgba(36,102,167,0.5);
+    height: 20%;
+    border-style: 1px solid black;
+    
+    border: 1px solid black;
+}
+#background
+{
+    background-color: rgba(0,0,0,0.4);
+    background-blend-mode: color-dodge;
+    padding: 10% 2% ;
+   
+    margin: -40px;
+    
+}
+.login_body a
+{
+    
+    color:black;
+    font-size: 20px;
+    background-color: azure;
+    padding: 2px;
+}
+
+.space
+{
+    
+    text-align: center;
+    width: 90%;
+        border-radius: 20px;
+    
+    
+    
+}
+.login_body
+{
+    padding-top: 10px;
+    position: relative;
+   
+    
+   
+    
+   
+    
+ 
+}
+.submit_style
+{
+    width: 150px;
+    border-radius: 10px;
+    background-color: rgba(29,99,169,0.8);
+    color: rgba(0,0,0,1);
+    font-size: 16px;
+    
+    
+  
+        
+}
+.submit_style:hover
+{
+    cursor: pointer;
+}
+.login_body span
+{
+    margin-left: 20px;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.login_body input
+{
+    border: none;
+    padding: 5px 0px;
+    
+}
+

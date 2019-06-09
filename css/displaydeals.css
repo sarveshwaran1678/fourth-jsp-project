@@ -1,0 +1,53 @@
+/* 
+    Document   : displaydeals
+    Created on : Jul 25, 2018, 2:39:21 PM
+    Author     : saru
+    Description:
+        Purpose of the stylesheet follows.
+*/
+root { 
+    display: block;
+}
+#output
+{
+    float: left;
+    
+    font-size:20px;
+}
+
+.clear
+{
+    clear: both;
+    
+}
+.dea
+{
+   float: left;
+}
+.mine li 
+{
+    background-color: rgba(0,0,0,0.2);
+    padding: 10px;
+    margin: 10px;
+   list-style-type: none;
+    float: left;
+}
+.their li 
+{
+    background-color: rgba(0,0,0,0.2);
+    padding: 10px;
+    margin: 10px;
+   list-style-type: none;
+    float: left;
+}
+
+
+.see li 
+{
+      background-color: rgba(0,0,0,0.2);
+    padding: 10px;
+    margin: 10px;
+   list-style-type: none;
+    float: left;
+    
+}

@@ -1,0 +1,62 @@
+/* 
+    Document   : new
+    Created on : Apr 14, 2018, 2:49:33 PM
+    Author     : saru
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+root { 
+    display: block;
+}
+
+#header1
+{
+
+  width: 100%;
+  height: 55px;
+  background-color:rgb(44, 71, 74);
+  float: left;
+
+}
+body
+{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav{
+float: left;
+  padding-left: 10px;
+  
+}
+#nav li{
+  float: left;
+  
+  margin-left: 15px;
+  margin-right:15px;
+  list-style-type: none;
+  
+}
+#nav a{
+  text-decoration: none;
+  color: white;
+   margin: 10px;
+  padding: 11px;
+
+}
+#nav a:hover{
+  padding:11px;
+  
+  background-color:  rgb(33, 161, 80);
+
+}
+#nav a:active{
+  padding:11px;
+  
+  border-bottom:  2px solid blue ;
+  
+
+}

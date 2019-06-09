@@ -1,0 +1,43 @@
+/* 
+    Document   : index
+    Created on : May 12, 2018, 9:09:36 PM
+    Author     : saru
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.background
+{
+    padding: 30px;
+    
+}
+root { 
+    display: block;
+}
+
+.conatiner .img img{
+    
+    border-radius: 100px;
+    margin-left: 33%;
+}
+
+.siza{
+    margin-top: 70px;
+    
+}
+.conatiner img 
+{
+     border-radius: 25px;
+    margin-left: 28%;
+    
+}
+.conatiner
+{
+    height: 90%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 50px;
+    background-color: rgba(224,96,96,0.5);
+    border: 2px solid black;
+    
+    
+}
