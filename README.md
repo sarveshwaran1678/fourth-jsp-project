@@ -1,4 +1,4 @@
-# jsp
+# jsp based project README
 Duration of 2 months 15 days an average of 3-5 hours a day.
 Project is based on JSP. Built on neatbeans ide 7.2.1.Used php my admin and mysql for database. Wamp server - apachae 2.2.11/GlassFish Server 3.1.2.
 Project also contains Javascript,Jquery,Ajax,CSS,Bootstrap,HTML,Google MAPS API,Gmail Services.
@@ -44,6 +44,7 @@ The key features of this project for both farmers and wholesalers are:
 8)Logout-This Project has session management.
 
 
+
 The key features of this project for admin is :
 
 1)Can add new crops,new variety,new types.
@@ -54,5 +55,10 @@ The key features of this project for admin is :
 
 4)Can unblock farmers/wholesalers.
 
-4)Can Add/Display farmers/wholesalers
+5)Can Add/Display farmers/wholesalers
+
+
+Learnt my new things. Did a lot of mistakes. Have to implement them in future.
+
+
 
