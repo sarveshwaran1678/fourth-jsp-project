@@ -1,6 +1,6 @@
 # jsp based project README
 Duration of 2 months 15 days an average of 3-5 hours a day.
-Project is based on JSP. Built on neatbeans ide 7.2.1.Used php my admin and mysql for database. Wamp server - apachae 2.2.11/GlassFish Server 3.1.2.
+Project is based on JSP. Built on Neatbeans IDE 7.2.1.Used PHP my admin and MySql for database. WAMP server - Apachae 2.2.11/GlassFish Server 3.1.2.
 Project also contains Javascript,Jquery,Ajax,CSS,Bootstrap,HTML,Google MAPS API,Gmail Services.
 
 
@@ -18,7 +18,7 @@ Libaries included are:
 
 
 This is an advanced project on my version of how wholesalers and farmers can sell and buy goods and products.
-During the project realised that this project cannot have any real world application. I couldnt stop half way. so this is my Final version of the project.
+During the project I realised that this project cannot have any real world application. I couldn't stop half way. So this is my Final version of the project.
 
 
 
@@ -27,13 +27,13 @@ The key features of this project for both farmers and wholesalers are:
 
 0)Step by Step detail on how website works in the home page.
 
-1)To register themselves online and otp generated mail to their mail id.
+1)To register themselves online and OTP generated mail to their mail ID.
 
-2)To add/delete the items to sell or buy in the cart. -- based on crop type,crop name,crop variety,number of quaintals,cost per quaintals.
+2)To add/delete the items to sell or buy in the cart. -- based on crop type,crop name,crop variety,number of quintals,cost per quintals.
 
-3)Search for potential buyers/sellers after adding in cart.
+3)Search for potential buyers/sellers after adding in cart.quaintals
 
-4)Make deals and get notifications on the location and contact deatils of sellars / buyers.
+4)Make deals and get notifications on the location and contact deatils of sellers / buyers.
 
 5)Keep track of Statistics of crops sold,added to cart,deleted from cart,notifications recived,request's made.
 
